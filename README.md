@@ -2,7 +2,7 @@
 
 Coffee Maker is an attempt (though simple) to simulate the operations of a physical coffee maker
 
-#installation
+# installation
 
 **At a console:**
  
